@@ -6,12 +6,12 @@ This project is a simple and fun application that leverages FastAPI, Supabase, a
 
 1. Create Environment
 
-   python -m venv venv
+   python -m venv venv<br>
    source venv/bin/activate  # On Windows use `venv\Scripts\activate
 
 1. Clone the repository:
 
-   git clone https://github.com/yourusername/Simple_Story_Generator.git
+   git clone https://github.com/yourusername/Simple_Story_Generator.git<br>
    cd Simple_Story_Generator
 
 2. Install dependencies:
