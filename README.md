@@ -11,7 +11,7 @@ This project is a simple and fun application that leverages FastAPI, Supabase, a
 
 1. Clone the repository:
 
-   git clone https://github.com/yourusername/Simple_Story_Generator.git<br>
+   git clone https://github.com/shyamkrishnank/Simple_Story_Generator.git<br>
    cd Simple_Story_Generator
 
 2. Install dependencies:
@@ -26,7 +26,7 @@ This project is a simple and fun application that leverages FastAPI, Supabase, a
 
   # Create Character
       
-       URL : `/api/create_character`
+       URL : '/api/create_character'
        Method : POST
 
        Curl :
@@ -54,7 +54,7 @@ This project is a simple and fun application that leverages FastAPI, Supabase, a
 
   # Generate Story (can send character id or character name)
       
-       URL : `/api/generate_story` 
+       URL : '/api/generate_story'
        Method : POST
        
        Curl :
